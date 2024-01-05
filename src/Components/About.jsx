@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Results-driven Machine Learning and NLP Engineer with a proven track record of designing and implementing innovative solutions to complex problems. Experienced in developing end-to-end machine learning pipelines, from data preprocessing to model deployment.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Machine Learning",
   "TensorFlow",
-  "Natural Language Processing",
+  "NLP",
   "Machine Translation",
   "Project Management Skills",
   "Database Development",
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am experienced about leveraging cutting-edge technologies to extract meaningful insights from large datasets and enhance the capabilities of natural language understanding systems.";
+  "I am experienced in leveraging cutting-edge technologies to extract meaningful insights from large datasets and enhance the capabilities of natural language understanding systems.";
 
 const About = () => {
   return (

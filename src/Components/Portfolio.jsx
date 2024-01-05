@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Detecting Hateful and Offensive Language using NLP",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have started this project because I want to avoid the impacts of hate speech and fake news in our homes that would negatively affect our friends and families especially: children as they are the least expert with technology. ",
+    url: "https://github.com/OmdenaAI/aswan-egypt-detecting-hate-nlp",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Detecting and Mitigating Traffic Accidents using Machine Learning and Traffic Data in Jordan",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this project, the project team aimed to find an AI solution to help reduce/mitigate the number of traffic accidents within the country of Jordan. The team used a dataset of traffic accidents in Jordan from 2016 to 2019, and used machine learning to predict the number of accidents in the future. The team also used the dataset to find the most common causes of accidents in Jordan, and used this information to suggest solutions to mitigate the number of accidents in the future.",
+    url: "https://drive.google.com/file/d/1qLg3pbgb6sSch_zl-fWIBGfSQ9K7OTPV/view",
   },
   {
-    title: "My Resume Site",
+    title: "How to predict the future? Blog post",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Machine learning is a form of AI that enables a system to learn from data rather than through explicit programming, This blog explain it in a simple way.",
+    url: "https://farahabdou.hashnode.dev/how-to-predict-the-future",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Mastering the Move: Migrating Your On-Premises MySQL Database to Azure Database for MySQL",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In the ever-evolving landscape of data management, the decision to migrate from an on-premises MySQL database to Azure Database for MySQL represents a strategic leap toward scalability, security, and efficiency. Today, let's embark on a comprehensive journey, meticulously navigating each step of the migration process with the Azure Database Migration Service (DMS)",
+    url: "https://farahabdou.hashnode.dev/mastering-the-move-migrating-your-on-premises-mysql-database-to-azure-database-for-mysql",
+  },
+  {
+    title: "Getting Started with Power BI",
+    description:
+      "Power BI Desktop is a free Business Intelligence application from Microsoft that lets you load, transform, and visualize data. You can use it to create reports and dashboards to share with others in your organization. Power BI Desktop is available for Windows only, but you can view the reports created with it on the Power BI mobile apps for iOS, Android, and Windows devices.",
+    url: "https://farahabdou.hashnode.dev/getting-started-with-power-bi",
+  },
+  {
+    title: "The Amazon Ecosystem: A Multifaceted Powerhouse in the Digital Era",
+    description:
+      "Amazon is a multinational technology company based in Seattle, Washington, that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is considered one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as one of the most influential economic and cultural forces in the world, as well as the world's most valuable brand.",
+    url: "https://farahabdou.hashnode.dev/the-amazon-ecosystem-a-multifaceted-powerhouse-in-the-digital-era",
   },
 ];
 

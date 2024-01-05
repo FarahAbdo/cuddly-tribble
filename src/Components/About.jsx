@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Machine Learning",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "TensorFlow",
+  "Natural Language Processing",
+  "Machine Translation",
+  "Project Management Skills",
+  "Database Development",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am experienced about leveraging cutting-edge technologies to extract meaningful insights from large datasets and enhance the capabilities of natural language understanding systems.";
 
 const About = () => {
   return (
